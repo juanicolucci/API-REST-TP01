@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-tp01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanicolucci/API-REST-TP01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juanicolucci/API-REST-TP01/issues"
+  },
+  "homepage": "https://github.com/juanicolucci/API-REST-TP01#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
